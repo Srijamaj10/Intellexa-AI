@@ -1,4 +1,4 @@
-Intellexa – An Autonomous AI Agent for Real-Time Research Paper Generation and PDF Synthesis 🤖📄
+###Intellexa – An Autonomous AI Agent for Real-Time Research Paper Generation and PDF Synthesis 🤖📄
 
 Intellexa is an intelligent AI assistant built to automate the full research workflow — from searching academic papers and extracting insights to generating complete research drafts and rendering them as polished PDFs. This project revolutionizes traditional methodologies and empowers researchers with AI‑driven productivity.
 
@@ -92,3 +92,4 @@ Google Gemini AI – Large language model
 💬 Feedback & Contributions
 
 Your ideas and contributions can help make Intellexa even more powerful! Open issues, submit pull requests, or try it out yourself. Together, we can redefine AI-assisted research and PDF generation.
+
