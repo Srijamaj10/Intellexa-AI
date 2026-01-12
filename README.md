@@ -1,10 +1,10 @@
-###Intellexa – An Autonomous AI Agent for Real-Time Research Paper Generation and PDF Synthesis 🤖📄
+# Intellexa – An Autonomous AI Agent for Real-Time Research Paper Generation and PDF Synthesis 🤖📄
 
-Intellexa is an intelligent AI assistant built to automate the full research workflow — from searching academic papers and extracting insights to generating complete research drafts and rendering them as polished PDFs. This project revolutionizes traditional methodologies and empowers researchers with AI‑driven productivity.
+**Intellexa** is an intelligent AI assistant built to automate the full research workflow — from searching academic papers and extracting insights to generating complete research drafts and rendering them as polished PDFs. This project revolutionizes traditional methodologies and empowers researchers with AI‑driven productivity.
 
 Built using Python, Streamlit, LangGraph, and powered by Google Gemini AI, Intellexa delivers a smart, interactive research experience.
 
-🚀 Key Features
+## 🚀 Key Features
 
 Real-Time Paper Discovery: Instantly search and fetch research papers using keywords.
 
@@ -14,7 +14,7 @@ AI‑Driven Paper Drafting: Generate structured research drafts on any topic usi
 
 PDF Synthesis with LaTeX Rendering: Auto‑convert generated papers into publication‑ready PDFs.
 
-💡 Why Intellexa?
+##💡 Why Intellexa?
 
 Research can be overwhelming, fragmented, and time‑intensive — from finding relevant literature to synthesizing ideas and drafting a paper. Intellexa streamlines this entire process by:
 
@@ -26,7 +26,7 @@ Research can be overwhelming, fragmented, and time‑intensive — from finding 
 
 All within one unified workflow.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python – Core programming language
 
@@ -40,7 +40,7 @@ PyPDF2 & Requests – PDF handling and data fetching
 
 Tectonic – LaTeX PDF rendering
 
-⚡ How to Run
+## ⚡ How to Run
 
 Clone the repository
 
@@ -67,17 +67,13 @@ streamlit run frontend.py
 Start exploring!
 Enter a topic to search papers, summarize insights, and generate drafts automatically.
 
-📸 Demo
-
-(Add your demo video or screenshot link here for maximum impact!)
-
-🔗 Connect With Me
+## 🔗 Connect With Me
 
 ✨ LinkedIn: https://www.linkedin.com/in/srija-majumdar-a686772a2
 
 💡 GitHub: https://github.com/Srijamaj10
 
-📚 References & Tools Used
+## 📚 References & Tools Used
 
 ArXiv API – Paper fetching
 
@@ -89,7 +85,8 @@ LangGraph & LangChain – AI orchestration
 
 Google Gemini AI – Large language model
 
-💬 Feedback & Contributions
+## 💬 Feedback & Contributions
 
 Your ideas and contributions can help make Intellexa even more powerful! Open issues, submit pull requests, or try it out yourself. Together, we can redefine AI-assisted research and PDF generation.
+
 
